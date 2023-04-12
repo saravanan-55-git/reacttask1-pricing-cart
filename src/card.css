@@ -1,0 +1,47 @@
+.container{
+    background-color: blue;
+
+    
+}
+
+.card1{    
+    background-color: white;
+    height:auto;
+    width:250px; 
+    display: flex;
+    flex-wrap: wrap;
+    position: absolute;
+    top:100px;
+    left: 100px;
+    border-radius: 10px;
+
+}
+
+.card2{
+    background-color: white;
+    height:auto;
+    width:250px;
+    display: flex;
+    flex-wrap: wrap;
+    position: absolute;
+    top:100px;
+    left: 500px;
+    border-radius: 10px;
+}
+
+.card3{
+    background-color: white;
+    height:auto;
+    width:250px; 
+    display: flex;
+    flex-wrap: wrap;
+    position: absolute;
+    top:100px;
+    left: 900px;
+    border-radius: 10px;
+}
+.btn{
+    height: 10px;
+    width: 50px;
+    justify-content: center;
+}
